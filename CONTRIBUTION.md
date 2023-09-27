@@ -30,7 +30,9 @@ git commit -m "Add feature: your feature name"
 ```
 
 7. Push your changes: Push your branch to your fork on GitHub:
+```shell
 git push origin feature/your-feature-name
+```
 
 8. Create a Pull Request: Go to the original repository on GitHub and click the "New Pull Request" button. Fill out the necessary details, and we'll review your contribution.
 
