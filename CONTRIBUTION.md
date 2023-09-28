@@ -12,12 +12,7 @@ We appreciate your interest in contributing to our open-source project. Before y
 git clone https://github.com/Namya13Jain/CPP_Guide.git
 ```
 
-3. Create a new Issue or contribute to an existing Issue. Create a new branch: Change to the project's directory and create a new branch for your contribution:
-
-```shell
-cd CPP_Guide
-git checkout -b feature/your-feature-name
-```
+3. Create a new Issue or contribute to an existing Issue. Wait for the issue to be assigned to you and then contribute to the repository.
 
 4. Make your changes: Write your code, fix a bug, or make improvements.
 
