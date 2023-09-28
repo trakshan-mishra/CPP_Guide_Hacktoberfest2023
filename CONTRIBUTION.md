@@ -47,4 +47,5 @@ git push origin feature/your-feature-name
 2. Use valid and logical variable names. 
    Ex: Use int 'row' instead of int 'i' while using the for loop in the code of matrix multiplication
 3. Make use of Object Oriented Conecpts while solving data structures and algrothim problems.
-4. While contributing to the DSA folder, make sure to add the link of the coding problem at the top of the file in the form of a comment.
+4. While contributing to the DSA folder, make sure to add the link of the coding problem at the top of the file in the form of a comment. Please give the complexity analysis(time complexity and space complexity) of the code you are contributing along with a brief explanation of the working of the code.
+5. While contributing to the OOPS folder, make sure to write a brief introduction of the topic along with an example.
