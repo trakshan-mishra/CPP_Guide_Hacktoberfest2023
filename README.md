@@ -1,5 +1,7 @@
 This Repository aims to provide codes in C++ programming language around Object Oriented Programming and Data Structures and Algorithms(DSA)
 
+<img src= "https://raw.githubusercontent.com/ossamamehmood/Hacktoberfest2023/main/.github/logo.png">
+
 # Resources
 Some online resources that the beginners can refer are:
 1. Geeks For Geeks (GFG)
